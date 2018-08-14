@@ -1,0 +1,10 @@
+Race,Type,Candidates,Ratio
+Senate,Incumbent,13,0.371428571
+Senate,Open Seat,6,0.171428571
+Senate,Challenger,12,0.342857143
+House,Incumbent,71,1.092307692
+House,Open Seat,70,1.076923077
+House,Challenger,142,2.184615385
+Governor,Incumbent,4,0.111111111
+Governor,Open Seat,13,0.361111111
+Governor,Challenger,10,0.277777778
