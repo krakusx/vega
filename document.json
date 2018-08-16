@@ -1,0 +1,445 @@
+[
+  {
+    "name": "Alabama",
+    "region": "south",
+    "id": 1,
+    "pct": 0.102,
+    "total": 787,
+    "group": "<10000"
+  },
+  {
+    "name": "Alaska",
+    "region": "west",
+    "id": 2,
+    "pct": 0.037,
+    "total": 138,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Arizona",
+    "region": "west",
+    "id": 4,
+    "pct": 0.055,
+    "total": 1565,
+    "group": "10000 to 14999"
+  },
+  
+  {
+    "name": "Arkansas",
+    "region": "south",
+    "id": 5,
+    "pct": 0.078,
+    "total": 425,
+    "group": "10000 to 14999"
+  },
+  
+  {
+    "name": "California",
+    "region": "west",
+    "id": 6,
+    "pct": 0.061,
+    "total": 5023,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Colorado",
+    "region": "west",
+    "id": 8,
+    "pct": 0.044,
+    "total": 1049,
+    "group": "10000 to 14999"
+  },
+  
+  {
+    "name": "Connecticut",
+    "region": "northeast",
+    "id": 9,
+    "pct": 0.059,
+    "total": 1047,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Delaware",
+    "region": "south",
+    "id": 10,
+    "pct": 0.057,
+    "total": 330,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Florida",
+    "region": "south",
+    "id": 12,
+    "pct": 0.081,
+    "total": 5428,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Georgia",
+    "region": "south",
+    "id": 13,
+    "pct": 0.059,
+    "total": 1476,
+    "group": "10000 to 14999"
+  },
+ 
+  {
+    "name": "Hawaii",
+    "region": "west",
+    "id": 15,
+    "pct": 0.06,
+    "total": 202,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Idaho",
+    "region": "west",
+    "id": 16,
+    "pct": 0.072,
+    "total": 227,
+    "group": "<10000"
+  },
+  {
+    "name": "Illinois",
+    "region": "midwest",
+    "id": 17,
+    "pct": 0.074,
+    "total": 2760,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Indiana",
+    "region": "midwest",
+    "id": 18,
+    "pct": 0.077,
+    "total": 1804,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Iowa",
+    "region": "midwest",
+    "id": 19,
+    "pct": 0.065,
+    "total": 337,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Kansas",
+    "region": "midwest",
+    "id": 20,
+    "pct": 0.066,
+    "total": 319,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Kentucky",
+    "region": "south",
+    "id": 21,
+    "pct": 0.103,
+    "total": 1528,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Louisiana",
+    "region": "south",
+    "id": 22,
+    "pct": 0.104,
+    "total": 1112,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Maine",
+    "region": "northeast",
+    "id": 23,
+    "pct": 0.072,
+    "total": 408,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Maryland",
+    "region": "south",
+    "id": 24,
+    "pct": 0.054,
+    "total": 2284,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Massachusetts",
+    "region": "northeast",
+    "id": 25,
+    "pct": 0.065,
+    "total": 2158,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Michigan",
+    "region": "midwest",
+    "id": 26,
+    "pct": 0.084,
+    "total": 2563,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Minnesota",
+    "region": "midwest",
+    "id": 27,
+    "pct": 0.058,
+    "total": 718,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Mississippi",
+    "region": "south",
+    "id": 28,
+    "pct": 0.118,
+    "total": 315,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Missouri",
+    "region": "midwest",
+    "id": 29,
+    "pct": 0.081,
+    "total": 1396,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Montana",
+    "region": "west",
+    "id": 30,
+    "pct": 0.073,
+    "total": 111,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Nebraska",
+    "region": "midwest",
+    "id": 31,
+    "pct": 0.054,
+    "total": 152,
+    "group": "10000 to 14999"
+  },
+  
+  {
+    "name": "Nevada",
+    "region": "west",
+    "id": 32,
+    "pct": 0.153,
+    "total": 757,
+    "group": "35000 to 49999"
+  },
+  
+  {
+    "name": "New Hampshire",
+    "region": "northeast",
+    "id": 33,
+    "pct": 0.045,
+    "total": 472,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "New Jersey",
+    "region": "northeast",
+    "id": 34,
+    "pct": 0.056,
+    "total": 2585,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "New Mexico",
+    "region": "west",
+    "id": 35,
+    "pct": 0.1,
+    "total": 481,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "New York",
+    "region": "northeast",
+    "id": 36,
+    "pct": 0.081,
+    "total": 2406,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "North Carolina",
+    "region": "south",
+    "id": 37,
+    "pct": 0.085,
+    "total": 2323,
+    "group": "<10000"
+  },
+  {
+    "name": "North Dakota",
+    "region": "midwest",
+    "id": 38,
+    "pct": 0.068,
+    "total": 81,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Ohio",
+    "region": "midwest",
+    "id": 39,
+    "pct": 0.084,
+    "total": 4928,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "Oklahoma",
+    "region": "south",
+    "id": 40,
+    "pct": 0.065,
+    "total": 755,
+    "group": "10000 to 14999"
+  },
+ 
+  {
+    "name": "Oregon",
+    "region": "west",
+    "id": 41,
+    "pct": 0.056,
+    "total": 542,
+    "group": "10000 to 14999"
+  },
+  
+  {
+    "name": "Pennsylvania",
+    "region": "northeast",
+    "id": 42,
+    "pct": 0.071,
+    "total": 5283,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Rhode Island",
+    "region": "northeast",
+    "id": 44,
+    "pct": 0.078,
+    "total": 321,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "South Carolina",
+    "region": "south",
+    "id": 45,
+    "pct": 0.093,
+    "total": 990,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "South Dakota",
+    "region": "midwest",
+    "id": 46,
+    "pct": 0.064,
+    "total": 69,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Tennessee",
+    "region": "south",
+    "id": 47,
+    "pct": 0.089,
+    "total": 1755,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Texas",
+    "region": "south",
+    "id": 48,
+    "pct": 0.076,
+    "total": 2964,
+    "group": "<10000"
+  },
+  
+  {
+    "name": "Utah",
+    "region": "west",
+    "id": 49,
+    "pct": 0.093,
+    "total": 636,
+    "group": "25000 to 34999"
+  },
+  
+  {
+    "name": "Vermont",
+    "region": "northeast",
+    "id": 50,
+    "pct": 0.06,
+    "total": 129,
+    "group": "10000 to 14999"
+  },
+  {
+    "name": "Virginia",
+    "region": "south",
+    "id": 51,
+    "pct": 0.059,
+    "total": 1437,
+    "group": "<10000"
+  },
+  {
+    "name": "Washington",
+    "region": "west",
+    "id": 53,
+    "pct": 0.064,
+    "total": 1164,
+    "group": "<10000"
+  },
+ 
+  {
+    "name": "West Virginia",
+    "region": "south",
+    "id": 54,
+    "pct": 0.104,
+    "total": 940,
+    "group": "<10000"
+  },
+  {
+    "name": "Wisconsin",
+    "region": "midwest",
+    "id": 55,
+    "pct": 0.062,
+    "total": 1152,
+    "group": "<10000"
+  },
+
+  {
+    "name": "Wyoming",
+    "region": "west",
+    "id": 56,
+    "pct": 0.048,
+    "total": 61,
+    "group": "<10000"
+  }
+]
