@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Alabama",
+    "region": "south",
+    "id": 1,
+    "total": 9197
+  },
+  {
+    "name": "Alaska",
+    "region": "west",
+    "id": 2,
+    "total": 14461
+  },
+ 
+  {
+    "name": "Arizona",
+    "region": "west",
+    "id": 4,
+    "total": 7727
+  },
+  
+  {
+    "name": "Arkansas",
+    "region": "south",
+    "id": 5,
+    "total": 8677
+  },
+  
+  {
+    "name": "California",
+    "region": "west",
+    "id": 6,
+    "total": 9706
+  },
+  
+  {
+    "name": "Colorado",
+    "region": "west",
+    "id": 8,
+    "total": 9152
+  },
+  
+  {
+    "name": "Connecticut",
+    "region": "northeast",
+    "id": 9,
+    "total": 14610
+  },
+  
+  {
+    "name": "Delaware",
+    "region": "south",
+    "id": 10,
+    "total": 12153
+  },
+ 
+  {
+    "name": "Florida",
+    "region": "south",
+    "id": 12,
+    "total": 9084
+  },
+  
+  {
+    "name": "Georgia",
+    "region": "south",
+    "id": 13,
+    "total": 9718
+  },
+ 
+  {
+    "name": "Hawaii",
+    "region": "west",
+    "id": 15,
+    "total": 11800
+  },
+  
+  {
+    "name": "Idaho",
+    "region": "west",
+    "id": 16,
+    "total": 6951
+  },
+  {
+    "name": "Illinois",
+    "region": "midwest",
+    "id": 17,
+    "total": 10353
+  },
+  
+  {
+    "name": "Indiana",
+    "region": "midwest",
+    "id": 18,
+    "total": 8867
+  },
+  
+  {
+    "name": "Iowa",
+    "region": "midwest",
+    "id": 19,
+    "total": 9520
+  },
+  
+  {
+    "name": "Kansas",
+    "region": "midwest",
+    "id": 20,
+    "total": 9883
+  },
+  
+  {
+    "name": "Kentucky",
+    "region": "south",
+    "id": 21,
+    "total": 8740
+  },
+  
+  {
+    "name": "Louisiana",
+    "region": "south",
+    "id": 22,
+    "total": 10006
+  },
+  
+  {
+    "name": "Maine",
+    "region": "northeast",
+    "id": 23,
+    "total": 11761
+  },
+  
+  {
+    "name": "Maryland",
+    "region": "south",
+    "id": 24,
+    "total": 13235
+  },
+ 
+  {
+    "name": "Massachusetts",
+    "region": "northeast",
+    "id": 25,
+    "total": 13667
+  },
+  
+  {
+    "name": "Michigan",
+    "region": "midwest",
+    "id": 26,
+    "total": 10075
+  },
+  
+  {
+    "name": "Minnesota",
+    "region": "midwest",
+    "id": 27,
+    "total": 10048
+  },
+ 
+  {
+    "name": "Mississippi",
+    "region": "south",
+    "id": 28,
+    "total": 7890
+  },
+ 
+  {
+    "name": "Missouri",
+    "region": "midwest",
+    "id": 29,
+    "total": 9532
+  },
+ 
+  {
+    "name": "Montana",
+    "region": "west",
+    "id": 30,
+    "total": 9786
+  },
+  
+  {
+    "name": "Nebraska",
+    "region": "midwest",
+    "id": 31,
+    "total": 10565
+  },
+  
+  {
+    "name": "Nevada",
+    "region": "west",
+    "id": 32,
+    "total": 8187
+  },
+  
+  {
+    "name": "New Hampshire",
+    "region": "northeast",
+    "id": 33,
+    "total": 11951
+  },
+  
+  {
+    "name": "New Jersey",
+    "region": "northeast",
+    "id": 34,
+    "total": 17620
+  },
+  
+  {
+    "name": "New Mexico",
+    "region": "west",
+    "id": 35,
+    "total": 9291
+  },
+  
+  {
+    "name": "New York",
+    "region": "northeast",
+    "id": 36,
+    "total": 16784
+  },
+ 
+  {
+    "name": "North Carolina",
+    "region": "south",
+    "id": 37,
+    "total": 7798
+  },
+  {
+    "name": "North Dakota",
+    "region": "midwest",
+    "id": 38,
+    "total": 9324
+  },
+ 
+  {
+    "name": "Ohio",
+    "region": "midwest",
+    "id": 39,
+    "total": 10340
+  },
+ 
+  {
+    "name": "Oklahoma",
+    "region": "south",
+    "id": 40,
+    "total": 7683
+  },
+ 
+  {
+    "name": "Oregon",
+    "region": "west",
+    "id": 41,
+    "total": 9565
+  },
+  
+  {
+    "name": "Pennsylvania",
+    "region": "northeast",
+    "id": 42,
+    "total": 11741
+  },
+  
+  {
+    "name": "Rhode Island",
+    "region": "northeast",
+    "id": 44,
+    "total": 14459
+  },
+  
+  {
+    "name": "South Carolina",
+    "region": "south",
+    "id": 45,
+    "total": 9060
+  },
+  
+  {
+    "name": "South Dakota",
+    "region": "midwest",
+    "id": 46,
+    "total": 8535
+  },
+  
+  {
+    "name": "Tennessee",
+    "region": "south",
+    "id": 47,
+    "total": 7820
+  },
+  
+  {
+    "name": "Texas",
+    "region": "south",
+    "id": 48,
+    "total": 8350
+  },
+  
+  {
+    "name": "Utah",
+    "region": "west",
+    "id": 49,
+    "total": 5978
+  },
+  
+  {
+    "name": "Vermont",
+    "region": "northeast",
+    "id": 50,
+    "total": 14421
+  },
+  {
+    "name": "Virginia",
+    "region": "south",
+    "id": 51,
+    "total": 10664
+  },
+  {
+    "name": "Washington",
+    "region": "west",
+    "id": 53,
+    "total": 9058
+  },
+ 
+  {
+    "name": "West Virginia",
+    "region": "south",
+    "id": 54,
+    "total": 10059
+  },
+  {
+    "name": "Wisconsin",
+    "region": "midwest",
+    "id": 55,
+    "total": 10791
+  },
+
+  {
+    "name": "Wyoming",
+    "region": "west",
+    "id": 56,
+    "total": 13856
+  }
+]
