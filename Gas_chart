@@ -1,0 +1,47 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+    "description": "Line graph showing gas prices",
+    "mark": "line",
+    "encoding": {
+        "color": {
+            "field": "Location",
+            "type": "nominal",
+            "legend": {
+                "title": ""
+            }
+        },
+        "x": {
+            "field": "Date",
+            "type": "temporal",
+            "axis": {
+                "title": ""
+            }
+        },
+        "y": {
+            "field": "Price",
+            "scale": {
+                "domain": [
+                    1.5,
+                    3.5
+                ]
+            },
+            "type": "quantitative",
+            "axis": {
+                "title": ""
+            }
+        }
+    },
+    "data": {
+        "format": {
+            "type": "csv"
+        },
+        "url": "https://raw.githubusercontent.com/krakusx/vega/master/gas2.csv"
+    },
+    "width": 512,
+    "selection": {
+        "grid": {
+            "type": "interval",
+            "bind": "scales"
+        }
+    }
+}
